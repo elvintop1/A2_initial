@@ -1,0 +1,15 @@
+# ninja log v5
+1711	3595	7031971323263711	A2_initial.exe	5d764e6398b809b0
+10	1498	7031971303258473	CMakeFiles/A2_initial.dir/main.cpp.obj	6194151495f8fee1
+2	1711	7031971305113065	CMakeFiles/A2_initial.dir/knight2.cpp.obj	24e006d4b3084503
+0	500	7031972954495952	CMakeFiles/main.cpp.dir/knight2.cpp.obj	dcf11caa495f30b1
+458	645	7031978923821562	main.exe	628e6db418407226
+1	597	7031972793001828	CMakeFiles/knight2.cpp.dir/main.cpp.obj	f10fa9f301eaee73
+1	455	7031974865422003	CMakeFiles/main.dir/main.cpp.obj	aad6d80d6bd7d6ca
+2	458	7031978921891478	CMakeFiles/main.dir/knight2.cpp.obj	778f0cac2221cc80
+11	422	7149112753274124	build.ninja	a6fd3f066be7314a
+0	408	7031973234159723	CMakeFiles/main.exe.dir/main.cpp.obj	ff0c29ba8e3d23e8
+6	537	7031973235369753	CMakeFiles/main.exe.dir/knight2.cpp.obj	219b613ac4646d2c
+2	689	7059482391173263	CMakeFiles/main1.dir/main.cpp.obj	c58e2ebe71a5caca
+10	819	7059482392381963	CMakeFiles/main1.dir/knight2.cpp.obj	2fcb599325a840d0
+819	1204	7059482396324894	main1.exe	b4edb625fb5ee01e
